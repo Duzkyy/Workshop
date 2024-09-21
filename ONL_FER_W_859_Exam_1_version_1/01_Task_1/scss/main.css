@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Indie Flower", cursive;
+  font-weight: 400;
+}
+
+.centered-text {
+  width: 100%;
+  height: 100%;
+  background-color: #FFDA69;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.centered-text p {
+  width: 100px;
+  text-align: center;
+  font-size: 3rem;
+}/*# sourceMappingURL=main.css.map */
